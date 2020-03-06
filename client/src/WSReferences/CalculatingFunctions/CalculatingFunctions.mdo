@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:WSReference xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="24e6972a-5f0a-46cc-8eb7-b12668cd7116">
+  <producedTypes>
+    <managerType typeId="c7a1ce59-f473-4f3d-9d5d-9d38972ffca6" valueTypeId="bb04c687-7ea1-4771-ad98-8ca647ea2c9e"/>
+  </producedTypes>
+  <name>CalculatingFunctions</name>
+  <synonym>
+    <key>ru</key>
+    <value>Calculating functions</value>
+  </synonym>
+  <locationURL>http://127.0.0.1/server/ws/CalculatingFunctions.1cws?wsdl</locationURL>
+</mdclass:WSReference>
